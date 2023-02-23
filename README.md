@@ -9,6 +9,6 @@ The deployed link is given below:
 https://b41-day40.vercel.app
 
 * use /listRooms => To get the list of rooms
-* use /listCustomers => To get the list of customer details who booked the room
+* use /listCustomer => To get the list of customer details who booked the room
 
 
